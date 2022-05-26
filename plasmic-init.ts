@@ -1,5 +1,5 @@
 import { initPlasmicLoader } from "@plasmicapp/loader-nextjs";
-import "@plasmicpkgs/antd/dist/antd.css";
+
 export const PLASMIC = initPlasmicLoader({
   projects: [
     {
